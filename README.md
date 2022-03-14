@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mentalmisstepp
+- 👋 Hi, I’m Michael Meriwether
 - 👀 I’m interested in ... Software development, Front-end, Back-end HTML, CSS, JS
 - 🌱 I’m currently learning ... Software Development, Front-end, Back-end, HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
